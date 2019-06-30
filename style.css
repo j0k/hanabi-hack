@@ -1,0 +1,82 @@
+#fileTree {
+  position: relative;
+  width: 15%;
+  float: left;
+}
+#editor {
+      position: relative;
+      width: 85%;
+      height: 200px;
+      float: left;
+/*         position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0; */
+    }
+
+#frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#code-ide {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 240px;
+    z-index:99;
+    visibility:"hidden";
+    background: white;
+    border:3px;
+    border-color:#000011;
+    border-style: solid;
+}
+
+#codeSinButton {
+  position: fixed;
+  top: 80%;
+  left: 5%;
+  width: 100px;
+  height: 100px;
+  padding: 0px;
+  vertical-align: middle;
+}
+
+.img-circular{
+ width: 105px;;
+ height: 105px;
+ background-image: url('forkwell.png');
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ background-size: 100px;
+ border: 2px;
+ border-color: blue;
+ font-size:200%;
+ border-style: solid;
+ vertical-align: middle;
+ display: inline-block;
+}
+
+.cntrl-panel {
+  border: 2px;
+  border-color: blue;
+  border-style: solid;
+  background: #eeeeee;
+  align:right;
+  float: right;
+  font-size:130%;
+}
+
+#btn-commit {
+  background: #aaaaee;
+}
+
+.img-circular:hover{
+ background-image: url('forkwell-hover.png');
+}
