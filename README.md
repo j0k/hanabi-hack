@@ -8,9 +8,15 @@ Rus-Jap hack. 29-30
 
 # code真会
 
-code真会 is a button that converts your visitors to programmers.
+code真会 (code sin kai) is a button that converts your visitors to programmers.
 
-here is the [demo](http://a.kilskil.com/ide.html) to understand the basic code真会  idea
+here is [demo](http://a.kilskil.com/ide.html) whic describes basic code真会  idea
+
+# materials
+
+1. [video1](https://youtu.be/a6Xj6xmdb7g)
+2. [video2](https://youtu.be/yPImkC8saHs)
+
 
 # Short description
 
