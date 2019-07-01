@@ -8,9 +8,34 @@ Rus-Jap hack. 29-30
 
 # code真会
 
-code真会 (code sin kai) is a button that converts your visitors to programmers.
+Code真会 (code sin kai) is a button that converts your visitors to programmers.
 
-here is [demo](http://a.kilskil.com/ide.html) whic describes basic code真会  idea
+Here is [demo](http://a.kilskil.com/ide.html) whic describes basic code真会  idea
+
+# theses
+
+## draft speech 1
+
+Our web service implemented on Forkwell and improves your portfolio and demonstrates your skills.
+- Login with Forkwell
+- Find websites with the button
+- Open a visual test environment to work together with professionals and learn
+- Commits will be added automatically  to GitHub
+- Contribute to a business or web page and get recommendations from famous companies
+
+## draft speech 2
+
+code真会 is a button that converts your visitors to programmers.
+Embed the button on a webpage allowing visitors to update your project whenever they want
+If you like programming, every  time you see a code button - click on it to help someone improve this world through code
+
+
+Our web service, implemented on Forkwell improve your portfolio demonstrating your skills.
+- Search for new vacancies made easily: choose from  backlog on Forkwell.
+- Work together with professionals and improve your skills
+- Get your commits added directly to GitHub
+- Contribute to a business or web page and get recommendations from famous companies
+
 
 # materials
 
